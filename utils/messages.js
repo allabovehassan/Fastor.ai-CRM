@@ -1,0 +1,17 @@
+module.exports = Object.freeze({
+  DB_CONNECTION_SUCESS: "Connection TO Database Sucessfull",
+  SERVER_ERROR: "Internal Server Error",
+  REGISTERED_SUCESSFULLY: "Employee Registered Sucessfully",
+  WELCOME: "Welcome To Fastor Backend CRM APIs",
+  LOGIN_SUCCESS: "Login Sucessfull",
+  LOGOUT_SUCESS: "logged out successfully",
+  INVALID_PASSWORD: "Invalid password",
+  INVALID_TOKEN: "Invalid token",
+  USER_NOT_FOUND: "User Not Found",
+  ALREADY_REGISTERED: "User already exist. Please Login",
+  ENQUIRY_SUBMIT_SUCESS: "Enquiry submitted successfully",
+  RECORDS_FETCHED_SUCESS: "Records Fetched Sucessfully",
+  ENQUIRY_NOT_FOUND: "Enquiry Not Found/ Claimed",
+  TOKEN_NOT_FOUND: "Token not found",
+  ENQUIRY_CLAIMED_SUCESS: "Enquiry Claimed Sucessfully",
+});
